@@ -12,12 +12,4 @@
     <artifactId>irpc-client</artifactId>
 
 
-    <dependencies>
-        <dependency>
-            <groupId>com.jaan</groupId>
-            <artifactId>irpc-common</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
-
 </project>
